@@ -71,6 +71,10 @@
 6. **질의 처리**: 사용자의 질문을 받아 관련 문서를 검색합니다.
 7. **답변 생성**: 검색된 문서를 바탕으로 GPT 모델이 답변을 생성합니다.
 
+![image](https://github.com/user-attachments/assets/42bb4a59-d59c-432d-85a2-febb792141b0)
+
+![image](https://github.com/user-attachments/assets/fb894d6c-3bf4-4fce-b544-20203bc9a067)
+
 ## 사용 방법
 
 1. 사이드바에서 문서를 업로드합니다.
