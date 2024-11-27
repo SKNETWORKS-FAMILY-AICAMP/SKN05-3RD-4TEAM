@@ -99,7 +99,10 @@
 
 ![image](https://github.com/user-attachments/assets/fb894d6c-3bf4-4fce-b544-20203bc9a067)
 
-## 사용 방법
+
+<details>
+  
+<summary><h2>사용 방법</h2></summary>
 
 1. 사이드바에서 문서를 업로드합니다.
 
@@ -110,6 +113,8 @@
 4. 시스템이 관련 정보를 검색하고 답변을 생성합니다.
 
 5. 답변과 함께 참고한 문서의 출처가 표시됩니다.
+  
+</details>
 
 ## 개선점
 
