@@ -96,9 +96,11 @@
 
 ## Streanlit 화면
 
-![image](https://github.com/user-attachments/assets/42bb4a59-d59c-432d-85a2-febb792141b0)
+![image](https://github.com/user-attachments/assets/161db935-ead0-4a76-ad39-dd9c32c6a87c)
 
-![image](https://github.com/user-attachments/assets/fb894d6c-3bf4-4fce-b544-20203bc9a067)
+![image](https://github.com/user-attachments/assets/e17b6e65-2a99-4f7a-8d9d-0feb3be44dfe)
+
+![image](https://github.com/user-attachments/assets/2df6d348-d120-4e53-9358-882903a49804)
 
 
 <details>
