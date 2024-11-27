@@ -47,7 +47,6 @@
 ![OpenAI GPT-4](https://img.shields.io/badge/OpenAI-GPT--4-blueviolet?logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.39.0-red?logo=streamlit&logoColor=white)
 
-
 ## 주요 컴포넌트
 
 ### OpenAI GPT 모델
