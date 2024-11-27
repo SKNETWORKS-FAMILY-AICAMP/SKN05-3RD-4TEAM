@@ -9,7 +9,7 @@
 
 |  **이준호** |  **신혜원** |  **윤상혁** |  **배윤관** |
 |:---------:|:---------:|:---------:|:-----------:|
-| @Lanvizu | @gjslqjxjclq | @ggreing |  @yoonkwan95 |
+| [@Lanvizu](https://github.com/Lanvizu) | [@gjslqjxjclq](https://github.com/gjslqjxjclq) | [@ggreing](https://github.com/ggreing) |  [@yoonkwan95](https://github.com/yoonkwan95) |
 <br>
 
 
