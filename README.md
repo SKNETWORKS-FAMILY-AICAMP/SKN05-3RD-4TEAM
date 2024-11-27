@@ -40,6 +40,14 @@
 - **프론트엔드**: Streamlit
 - **백엔드**: Python
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0.3.7-orange)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector%20DB-0091FF?style=flat&logo=pinecone&logoColor=white)
+![OpenAI GPT-3.5 turbo](https://img.shields.io/badge/OpenAI-GPT--3.5--turbo-blueviolet?logo=openai&logoColor=white)
+![OpenAI GPT-4](https://img.shields.io/badge/OpenAI-GPT--4-blueviolet?logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.39.0-red?logo=streamlit&logoColor=white)
+
+
 ## 주요 컴포넌트
 
 ### OpenAI GPT 모델
